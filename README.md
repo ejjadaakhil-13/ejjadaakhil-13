@@ -62,8 +62,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ejjadaakhil-13/ejjadaakhil-13/output/snake.svg" alt="Snake animation" />
 
 ###
