@@ -31,7 +31,7 @@
 
 ###
 
-<img align="right" height="170" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"  />
+<img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"  />
 
 ###
 
@@ -50,7 +50,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
+
+
+
 ###
+
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ejjada-akhil/">
@@ -63,8 +68,5 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
 </div>
-
-###
-
 
 ###
