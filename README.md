@@ -33,92 +33,95 @@
 
 ## Tools & Technologies I use ⚙️
 <br>
-
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=py" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="65" height="65" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="65" height="65" />
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
+      <img src="https://skillicons.dev/icons?i=c" alt="C" width="65" height="65" />
       <br>C
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="65" height="65" />
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="65" height="65" />
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=javascript" width="65" height="65" alt="JS" />
+      <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask" />
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring" />
-      <br>Spring
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
-      <br>MySQL
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="65" height="65" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="65" height="65" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="65" height="65" />
+      <br>Spring
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="65" height="65" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
       <br>MongoDB
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="65" height="65" />
       <br>GitHub
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=anaconda" width="65" height="65" alt="Anaconda" />
+      <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="65" height="65" />
       <br>Anaconda
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest API" width="65" height="65" />
       <br>Rest API
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VSCode" />
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="65" height="65" />
       <br>VSCode
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=pycharm" width="65" height="65" alt="PyCharm" />
+      <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="65" height="65" />
       <br>PyCharm
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=eclipse" width="65" height="65" alt="Eclipse" />
+      <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" width="65" height="65" />
       <br>Eclipse
     </td>
+    <!-- Add more rows if needed -->
   </tr>
 </table>
-
 <br>
 
 ## Connect with me👋
