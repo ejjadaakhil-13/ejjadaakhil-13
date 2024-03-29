@@ -2,22 +2,21 @@
 
 # Hello! I'm Akhil, someone who enjoys coding and watching anime in my free time.
 
-
-
-  
-
+ 
 ## Github stats 📊
 
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-
-![ejjadaakhil-13's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ejjadaakhil-13&theme=dark&hide_border=true)![ejjadaakhil-13's Stats](https://github-readme-stats.vercel.app/api?username=ejjadaakhil-13&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
+<div align=center>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ejjadaakhil-13&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ejjadaakhil-13&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+</div>
 </details>
 
 <details>
-  <summary>Activity Graph 📈</summary> <br/>
+  <summary>Activity Graph 📈</summary>
+  <br/>
  
 [![akhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ejjadaakhil-13&bg_color=1F2228&color=F8D866&line=8B949E&point=F8D866&area=true&hide_border=true)](https://github.com/ejjadaakhil-13/github-readme-activity-graph)
 
@@ -25,11 +24,9 @@
   <a href="https://github.com/ejjadaakhil-13">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ejjadaakhil-13&theme=slateorange" />
   </a>
-  
-  </div>
+</div>
 
 </details>
- 
 
 
 
