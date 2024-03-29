@@ -61,8 +61,6 @@
       <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="65" height="65" />
       <br>Bootstrap
@@ -71,6 +69,8 @@
       <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="65" height="65" />
       <br>Flask
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="65" height="65" />
       <br>Spring
@@ -87,8 +87,6 @@
       <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
       <br>MongoDB
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
       <br>Git
@@ -105,6 +103,8 @@
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest API" width="65" height="65" />
       <br>Rest API
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="65" height="65" />
       <br>VSCode
@@ -113,13 +113,10 @@
       <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="65" height="65" />
       <br>PyCharm
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" width="65" height="65" />
       <br>Eclipse
-    </td>
-    <!-- Add more rows if needed -->
+    </td> 
   </tr>
 </table>
 <br>
