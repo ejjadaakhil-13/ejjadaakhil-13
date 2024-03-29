@@ -1,5 +1,10 @@
 
 
+# Hello! I'm Akhil, someone who enjoys coding and watching anime in my free time.
+
+
+
+  
 
 ## Github stats 📊
 
@@ -15,6 +20,13 @@
   <summary>Activity Graph 📈</summary> <br/>
  
 [![akhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ejjadaakhil-13&bg_color=1F2228&color=F8D866&line=8B949E&point=F8D866&area=true&hide_border=true)](https://github.com/ejjadaakhil-13/github-readme-activity-graph)
+
+<div align="center">
+  <a href="https://github.com/ejjadaakhil-13">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ejjadaakhil-13&theme=slateorange" />
+  </a>
+  
+  </div>
 
 </details>
  
@@ -34,6 +46,14 @@
       <br>Python
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
       <br>HTML
     </td>
@@ -42,70 +62,69 @@
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="65" height="65" />
-      <br>JS
+        <img src="https://skillicons.dev/icons?i=javascript" width="65" height="65" alt="JS" />
+      <br>JavaScript
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring" />
+      <br>Spring
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
       <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <br>MongoDB
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=anaconda" width="65" height="65" alt="Anaconda" />
       <br>Anaconda
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask" />
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
-      <br>C
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
-      <br>Java
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Rest API
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring" />
-      <br>Spring
+        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VSCode" />
+      <br>VSCode
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-      <br>MongoDB
+        <img src="https://skillicons.dev/icons?i=pycharm" width="65" height="65" alt="PyCharm" />
+      <br>PyCharm
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=eclipse" width="65" height="65" alt="Eclipse" />
+      <br>Eclipse
     </td>
   </tr>
 </table>
 
+<br>
 
-<br><br>
-
-
-
-
-<br><br>
-
-
-###
-
-
+## Connect with me👋
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ejjada-akhil/">
