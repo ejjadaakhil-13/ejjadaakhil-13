@@ -1,3 +1,6 @@
+
+
+
 ## Github stats 📊
 
 <details>
@@ -26,54 +29,54 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=py" alt="icon" width="65" height="65" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="65" height="65" />
       <br>JS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
+        <img src="https://skillicons.dev/icons?i=anaconda" width="65" height="65" alt="Anaconda" />
       <br>Anaconda
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+        <img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask" />
       <br>Flask
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+        <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
       <br>C
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
+        <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />
+        <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
       <br>Java
     </td>
     <td align="center" width="96">
@@ -81,18 +84,15 @@
       <br>Rest API
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+        <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring" />
       <br>Spring
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
       <br>MongoDB
     </td>
   </tr>
 </table>
-
-
-
 
 
 <br><br>
