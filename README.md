@@ -1,8 +1,18 @@
+
+![welcome](https://github.com/user-attachments/assets/83ec58d1-9f34-42ab-a265-b525873cb34e)
+
+
 # Hi there! I'm Akhil
 
 I'm a human who loves coding and watching anime in my free time. I work with various technologies and am always eager to learn new things!
 
 ## Tech Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_Light.gif">
+  <img align="right" width="45%" alt="Skills Animation" src="./Skills_Animation_Light.gif">
+</picture>
 
 ### Languages
 - Python | Java
